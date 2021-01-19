@@ -1,0 +1,265 @@
+.container{
+	position: relative;
+	text-align: center;
+	color: black;
+
+}
+.top-left{
+  position: absolute;
+  margin-left: 100px;
+  top: 8px;
+  left: 16px;
+}
+.top-right{
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+.bottom-left{
+  position: absolute;
+  text-align: left;
+  color: black;
+  text-transform: bold;
+  bottom: 8px;
+  left: 16px;
+  margin-left: 100px;
+  height: 500px;
+  width: 490px;
+
+}
+.bottom-right{
+  position: absolute;
+  margin-bottom: 0px;
+
+  bottom: 8px;
+  right: 16px;
+}
+.h1{
+	position: relative;
+	float: left;
+	margin-right: 60px;
+}
+.h41{
+	position: relative;
+	float: right;
+	margin-right: 60px;
+	padding-top: 15px;
+}
+.h42{
+	position: relative;
+	float: right;
+	margin-right: 60px;
+	padding-top: 15px;
+}
+.h5r1{
+	position: relative;
+	float: left;
+	margin-right: 25px;
+	padding-top: 7px;
+}
+.h5r2{
+	position: relative;
+	float: left;
+	background-color:black;
+	color: white;
+	border-radius: 6px; 
+	margin-right: 25px;
+	padding:7px;
+
+
+}
+.im1{
+	position: relative;
+	float: right;
+	margin-right: 20px;
+	padding-top: 29px;
+}
+.p1{
+	text-align: left;
+	font-size: 60px;
+	font-weight: bold;
+
+}
+.p2{
+	font-size: 20px;
+	margin-bottom: 30px;
+}
+.p3{
+	align-items: center;
+	background-color: black;
+	color: white;
+	text-align: center;
+	border-radius: 35px;
+	padding-top: 15px;
+	padding-bottom: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 200px;
+}
+.p31{
+ 	float: left;
+ 	margin-right: 50px;
+}
+.p32{
+	float: right;
+	margin-bottom: 0px;
+}
+
+.center{
+	text-align: center;
+	padding: 30px;
+	background-image: url(C:\Users\Nivya\online learning\assignment B\elearning\Rectangle 1.png);
+	background-repeat: repeat;
+}
+.s1{
+	font-size: 30px;
+	font-weight:bold;
+}
+.s1 div{
+	color: red;
+}
+.s2{
+	font-size: 25px;
+}
+.why{
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	margin-bottom: 50px;
+}
+.basei{
+	position: relative;
+	top:0px;
+	left:0px;
+	color: black;
+}
+
+
+
+.bottom{
+	text-align: center;
+	position: absolute;
+	bottom: 0px;
+	height: 500px;
+
+
+}
+.bottom h5{
+
+	padding-left: 400px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	margin-left: 70px;
+	text-align: center;
+	height: 30px;
+	width: 500px;
+}
+.people{
+	position: relative;
+	top:0;
+	left:0;
+}
+.attach{
+	position: absolute;
+	top:350px;
+	left:0px;
+
+	height: 150px;
+}
+.centered{
+	position: absolute;
+	top: 80%;	
+	height: 80px;
+	font-size: 30px;
+	text-align: center;
+	margin-left: 0px;
+	
+}
+div .centered{
+	margin-left: 400px;
+	color: white;
+	font-size: 30px;
+}
+button{
+	float: right;
+	font-size: 20px;
+	height: 35px;
+	margin-left: 30px;
+	background-color: #6495ED;
+	color: white;
+	border-color: white;
+	border-radius: 16px;
+}
+.blue{
+	background-color: #154360 ;
+	position: relative;
+	width: 100%;
+	height: 700px;
+	color: white;
+	padding-top: 30px;
+	text-align: center;
+}
+.n1{
+	position: relative;
+	float: left;
+	text-align: center;
+	margin-right:100px;
+	margin-left: 280px;
+}
+.n2{
+	float: left;
+	margin-right: 110px;
+	margin-left: 50px;
+	text-align: center;
+
+}
+.n3{
+	padding-left: 0px;
+	width: 300px;
+	margin-left: 0px;
+	float: left;
+
+}
+.blue h4{
+	font-weight: bold;
+	font-size: 40px;
+	margin-top: 80px;
+}
+.last{
+	text-align: left;
+	
+}
+.last1{
+	position: relative;
+	float: left;
+	margin-left: 250px;
+	margin-right: 70px;
+}
+.last2{
+
+	float: left;
+	margin-right: 70px;
+}
+.last3{
+	float: left;
+	margin-right: 70px;
+}
+.last4{
+	float: left;
+	margin-right: 70px;
+}
+.last5{
+	float: left;
+	margin-right: 70px;
+}
+ul{
+	padding-left: 0px;
+}
+.social{
+	height: 50px;
+	margin-top: 30px;
+	margin-left: 100px;
+}
+.social img{
+	margin-right: 50px;
+}
